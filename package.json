@@ -1,0 +1,16 @@
+{
+  "name": "project-lvl1",
+  "version": "1.0.0",
+  "description": "game for brains",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\"\\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "project-lvl1"
+  },
+  "author": "nedomol",
+  "license": "ISC"
+}

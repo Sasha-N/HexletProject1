@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/Sasha-N/HexletProject1.git"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "nedomol",
   "license": "ISC"
 }

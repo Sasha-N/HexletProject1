@@ -8,8 +8,5 @@ parserOptions:
   ecmaVersion: 11
   sourceType: module
 rules: 
-  no-console: 0
-  import/extensions: 0
-- name: ESLint Action
-  uses: hallee/eslint-action@1.0.3
-
+  no-console: 'off'
+  import/extensions: 'off'

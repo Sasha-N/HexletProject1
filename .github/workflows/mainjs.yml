@@ -22,7 +22,7 @@ jobs:
           node-version: '13.x'
 
     # Runs a single command using the runners shell
-   - name: install 
+      - name: install 
         run: 
           make install
 
